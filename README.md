@@ -12,9 +12,12 @@ You can find the more information about the work in the wiki page.
 __Contents__
 
 This repository has the following parts:
-'LICENSE' \
+
+'LICENSE' 
+
 'PCC.l1.ipynb'\
-'README.md'\
+
+'README.md'
 
 
 __References__
